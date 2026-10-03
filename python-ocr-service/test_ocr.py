@@ -1,16 +1,15 @@
-from paddleocr import PaddleOCR
+from ocr_service import extract_marksheet
+import json
 
-ocr = PaddleOCR(
-    lang="en",
-)
 
-result = ocr.predict(
+result = extract_marksheet(
     "samples/12th.jpg"
 )
 
-for res in result:
-    texts = res["rec_texts"]
-    scores = res["rec_scores"]
 
-    for text, score in zip(texts, scores):
-        print(f"{score:.2f}  |  {text}")
+print(
+    json.dumps(
+        result,
+        indent=4
+    )
+)
