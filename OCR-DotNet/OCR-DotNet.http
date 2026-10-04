@@ -1,0 +1,6 @@
+@OCR_DotNet_HostAddress = http://localhost:5151
+
+GET {{OCR_DotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
