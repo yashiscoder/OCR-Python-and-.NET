@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "YPfWqWobZvcmJX4lfGVaLfIgfKKm5vIg2+I+qhTxtGeVsNic3vsKFtxfcWU+lSu3mBzWJuKl9x0RYWbYBmTg4Q==",
+  "dgSpecHash": "5wYS3fVasLjWYRldl7LY/re+5YLZjahJ/Ky1lW+Gi56e2AGMQqtRJniIXKLkCZuTPLy+4u7oOYncHRBBj/0sRQ==",
   "success": true,
   "projectFilePath": "/mnt/SRYD/OCR DotNet/OCR-Python-and-.NET/OCR-DotNet/OCR-DotNet.csproj",
   "expectedPackageFiles": [
     "/home/yashkumawat/.nuget/packages/microsoft.aspnetcore.openapi/8.0.31/microsoft.aspnetcore.openapi.8.0.31.nupkg.sha512",
     "/home/yashkumawat/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/yashkumawat/.nuget/packages/microsoft.openapi/1.6.30/microsoft.openapi.1.6.30.nupkg.sha512",
-    "/home/yashkumawat/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
-    "/home/yashkumawat/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
-    "/home/yashkumawat/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
-    "/home/yashkumawat/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    "/home/yashkumawat/.nuget/packages/swashbuckle.aspnetcore/7.3.0/swashbuckle.aspnetcore.7.3.0.nupkg.sha512",
+    "/home/yashkumawat/.nuget/packages/swashbuckle.aspnetcore.swagger/7.3.0/swashbuckle.aspnetcore.swagger.7.3.0.nupkg.sha512",
+    "/home/yashkumawat/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.3.0/swashbuckle.aspnetcore.swaggergen.7.3.0.nupkg.sha512",
+    "/home/yashkumawat/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.3.0/swashbuckle.aspnetcore.swaggerui.7.3.0.nupkg.sha512"
   ],
   "logs": []
 }
